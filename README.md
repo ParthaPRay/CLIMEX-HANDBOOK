@@ -7,7 +7,7 @@ The ClimEx Handbook was written by 115 scientists from 21 countries on four cont
 
 [https://climexhandbook.w.uib.no/](url)
 
-# What This Is About?
+# What This HandBook Is About?
 
 The CLIMEX researchers collected best-practice methods emerging from major ecological research networks and experiments, as synthesised by 115 experts from across a wide range of scientific disciplines. This handbook contains guidance on the selection of response variables for different purposes, protocols for standardised measurements of 66 such response variables, and advice on data management. Specifically, CLIMEX researchers recommend a minimum subset of variables that should be collected in all climate-change studies to allow data re-use and synthesis, and give guidance on additional variables critical for different types of synthesis and upscaling.
 
