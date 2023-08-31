@@ -1,8 +1,7 @@
 # CLIMEX-HANDBOOK
-This repo contains CLIMEX HANDBOOK Handbook for standardized measurements in Climate Change Experiments
+This repo contains CLIMEX HANDBOOK Handbook for standardized measurements in Climate Change Experiments.
 
-The ClimEx Handbook was written by 115 scientists from 21 countries on four continents. See individual protocols for the detailed author list.
-List of Authors: [https://climexhandbook.w.uib.no/about-us/who-we-are/](url)
+The ClimEx Handbook was written by 115 scientists from 21 countries on four continents. See individual protocols for the detailed author list. List of Authors: [https://climexhandbook.w.uib.no/about-us/who-we-are/](url)
 
 # CLIMEX BOOK Link
 
